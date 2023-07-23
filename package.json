@@ -1,11 +1,14 @@
 {
   "name": "@fofaraz/test-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test description",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
     "test": ""
+  },
+  "bin": {
+    "my-command": "./my-command.js"
   },
   "repository": {
     "type": "git",
