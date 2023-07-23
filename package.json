@@ -1,0 +1,22 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "test description",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fofaraz/test-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/muon3/muon-discord-bot/issues"
+  },
+  "homepage": "https://gitlab.com/muon3/muon-discord-bot#readme",
+  "dependencies": {
+  }
+}
