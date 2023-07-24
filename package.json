@@ -9,7 +9,7 @@
     "test": ""
   },
   "bin": {
-    "my-command": "./my-command.js"
+    "muon": "./muon-command.js"
   },
   "repository": {
     "type": "git",
